@@ -266,9 +266,9 @@ const INPUTS = [
         , resource: "%0aalert(1)"
         , host: "%0aalert(1)"
         , user: ""
-        , pathname: ""
+        , pathname: "/"
         , hash: ""
-        , href: "javascript://%0aalert(1)"
+        , href: "javascript://%0aalert(1)/"
         , query: {}
         , parse_failed: false
         , search: ""
